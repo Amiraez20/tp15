@@ -24,19 +24,6 @@ Mettre en place un laboratoire Android pour observer du trafic HTTPS via un prox
 - `frida_hook_logs_2.png`
 - `burp_traffic_capture.png`
 
-## Génération du PDF
-Le rapport a été pensé pour être compilé avec LaTeX.
 
-Commande :
-```bash
-python /home/oai/skills/pdfs/scripts/latex_to_pdf.py rapport_tp_ssl_pinning.tex -o rapport_tp_ssl_pinning.pdf --engine pdflatex
-```
 
-## Vérifications conseillées
-- contrôler que le PDF s’ouvre correctement ;
-- vérifier que les figures ne sont pas coupées ;
-- confirmer que la table des matières et les légendes s’affichent correctement.
-
-## Remarques
-- Le TP doit être utilisé uniquement dans un cadre légal et autorisé.
-- Le nom affiché dans le rapport est **Ezbiri Amira**.
+**Ezbiri Amira**.

@@ -14,10 +14,6 @@ Mettre en place un laboratoire Android pour observer du trafic HTTPS via un prox
 - diagnostic d’un pinning natif éventuel ;
 - validation via capture du trafic HTTPS déchiffré.
 
-## Fichiers fournis
-- `rapport_tp_ssl_pinning.tex` : source LaTeX du rapport ;
-- `rapport_tp_ssl_pinning.pdf` : version finale du rapport ;
-- `images/` : captures d’écran utilisées dans le rapport.
 
 ## Captures incluses
 - `burp_proxy_listener.png`
